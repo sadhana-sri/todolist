@@ -19,7 +19,7 @@ Did you complete this task - 'Study Python'? (Yes/No): yes
 Did you complete this task - 'Workout'? (Yes/No): no
 
 Completed Tasks:
-# Study Python
+'#'Study Python
 
 Incomplete Tasks:
-# Workout
+'#' Workout
